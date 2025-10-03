@@ -1,0 +1,276 @@
+idHabilidadeCargo;descNomeCargo;descNivelCargo;descNomeHabilidade;descNivelHabilidade
+1;Data Analyst;Jr. Data Analyst;Apresentação / Storytelling;02. Iniciante
+2;Data Analyst;Pl. Data Analyst;Apresentação / Storytelling;03. Profissional
+3;Data Analyst;Sr. Data Analyst;Apresentação / Storytelling;04. Expert
+4;Data Analyst;Staff Data Analyst;Apresentação / Storytelling;04. Expert
+5;Data Analyst;Principal Data Analyst;Apresentação / Storytelling;04. Expert
+6;Data Analyst;Jr. Data Analyst;Comunicação;02. Iniciante
+7;Data Analyst;Pl. Data Analyst;Comunicação;03. Profissional
+8;Data Analyst;Sr. Data Analyst;Comunicação;04. Expert
+9;Data Analyst;Staff Data Analyst;Comunicação;05. Professor
+10;Data Analyst;Principal Data Analyst;Comunicação;05. Professor
+11;Data Analyst;Jr. Data Analyst;Data Visualization;02. Iniciante
+12;Data Analyst;Pl. Data Analyst;Data Visualization;03. Profissional
+13;Data Analyst;Sr. Data Analyst;Data Visualization;04. Expert
+14;Data Analyst;Staff Data Analyst;Data Visualization;04. Expert
+15;Data Analyst;Principal Data Analyst;Data Visualization;05. Professor
+16;Data Analyst;Jr. Data Analyst;Estatística descritiva;02. Iniciante
+17;Data Analyst;Pl. Data Analyst;Estatística descritiva;03. Profissional
+18;Data Analyst;Sr. Data Analyst;Estatística descritiva;04. Expert
+19;Data Analyst;Staff Data Analyst;Estatística descritiva;04. Expert
+20;Data Analyst;Principal Data Analyst;Estatística descritiva;05. Professor
+21;Data Analyst;Jr. Data Analyst;ETL;01. Aprendiz
+22;Data Analyst;Pl. Data Analyst;ETL;02. Iniciante
+23;Data Analyst;Sr. Data Analyst;ETL;03. Profissional
+24;Data Analyst;Staff Data Analyst;ETL;04. Expert
+25;Data Analyst;Principal Data Analyst;ETL;05. Professor
+26;Data Analyst;Jr. Data Analyst;Gestão / Liderança;00. Não esperada
+27;Data Analyst;Pl. Data Analyst;Gestão / Liderança;00. Não esperada
+28;Data Analyst;Sr. Data Analyst;Gestão / Liderança;01. Aprendiz
+29;Data Analyst;Staff Data Analyst;Gestão / Liderança;04. Expert
+30;Data Analyst;Principal Data Analyst;Gestão / Liderança;01. Aprendiz
+31;Data Analyst;Jr. Data Analyst;Git / GitHub / GitLab / BitBucket;01. Aprendiz
+32;Data Analyst;Pl. Data Analyst;Git / GitHub / GitLab / BitBucket;02. Iniciante
+33;Data Analyst;Sr. Data Analyst;Git / GitHub / GitLab / BitBucket;03. Profissional
+34;Data Analyst;Staff Data Analyst;Git / GitHub / GitLab / BitBucket;03. Profissional
+35;Data Analyst;Principal Data Analyst;Git / GitHub / GitLab / BitBucket;04. Expert
+36;Data Analyst;Jr. Data Analyst;Inteligência Emocional;00. Não esperada
+37;Data Analyst;Pl. Data Analyst;Inteligência Emocional;03. Profissional
+38;Data Analyst;Sr. Data Analyst;Inteligência Emocional;04. Expert
+39;Data Analyst;Staff Data Analyst;Inteligência Emocional;05. Professor
+40;Data Analyst;Principal Data Analyst;Inteligência Emocional;05. Professor
+41;Data Analyst;Jr. Data Analyst;Machine Learning - Agrupamento;00. Não esperada
+42;Data Analyst;Pl. Data Analyst;Machine Learning - Agrupamento;02. Iniciante
+43;Data Analyst;Sr. Data Analyst;Machine Learning - Agrupamento;03. Profissional
+44;Data Analyst;Staff Data Analyst;Machine Learning - Agrupamento;03. Profissional
+45;Data Analyst;Principal Data Analyst;Machine Learning - Agrupamento;04. Expert
+46;Data Analyst;Jr. Data Analyst;Machine Learning - Associação;01. Aprendiz
+47;Data Analyst;Pl. Data Analyst;Machine Learning - Associação;02. Iniciante
+48;Data Analyst;Sr. Data Analyst;Machine Learning - Associação;03. Profissional
+49;Data Analyst;Staff Data Analyst;Machine Learning - Associação;03. Profissional
+50;Data Analyst;Principal Data Analyst;Machine Learning - Associação;04. Expert
+51;Data Analyst;Jr. Data Analyst;Machine Learning - Classificação;00. Não esperada
+52;Data Analyst;Pl. Data Analyst;Machine Learning - Classificação;01. Aprendiz
+53;Data Analyst;Sr. Data Analyst;Machine Learning - Classificação;02. Iniciante
+54;Data Analyst;Staff Data Analyst;Machine Learning - Classificação;03. Profissional
+55;Data Analyst;Principal Data Analyst;Machine Learning - Classificação;03. Profissional
+56;Data Analyst;Jr. Data Analyst;Machine Learning - Regressão;00. Não esperada
+57;Data Analyst;Pl. Data Analyst;Machine Learning - Regressão;01. Aprendiz
+58;Data Analyst;Sr. Data Analyst;Machine Learning - Regressão;02. Iniciante
+59;Data Analyst;Staff Data Analyst;Machine Learning - Regressão;03. Profissional
+60;Data Analyst;Principal Data Analyst;Machine Learning - Regressão;03. Profissional
+61;Data Analyst;Jr. Data Analyst;Negociação;01. Aprendiz
+62;Data Analyst;Pl. Data Analyst;Negociação;02. Iniciante
+63;Data Analyst;Sr. Data Analyst;Negociação;03. Profissional
+64;Data Analyst;Staff Data Analyst;Negociação;04. Expert
+65;Data Analyst;Principal Data Analyst;Negociação;04. Expert
+66;Data Analyst;Jr. Data Analyst;Python / R / Julia;02. Iniciante
+67;Data Analyst;Pl. Data Analyst;Python / R / Julia;03. Profissional
+68;Data Analyst;Sr. Data Analyst;Python / R / Julia;04. Expert
+69;Data Analyst;Staff Data Analyst;Python / R / Julia;04. Expert
+70;Data Analyst;Principal Data Analyst;Python / R / Julia;05. Professor
+71;Data Analyst;Jr. Data Analyst;Simplificação;01. Aprendiz
+72;Data Analyst;Pl. Data Analyst;Simplificação;02. Iniciante
+73;Data Analyst;Sr. Data Analyst;Simplificação;03. Profissional
+74;Data Analyst;Staff Data Analyst;Simplificação;04. Expert
+75;Data Analyst;Principal Data Analyst;Simplificação;05. Professor
+76;Data Analyst;Jr. Data Analyst;SQL;02. Iniciante
+77;Data Analyst;Pl. Data Analyst;SQL;03. Profissional
+78;Data Analyst;Sr. Data Analyst;SQL;04. Expert
+79;Data Analyst;Staff Data Analyst;SQL;05. Professor
+80;Data Analyst;Principal Data Analyst;SQL;05. Professor
+81;Data Analyst;Jr. Data Analyst;Teste de hipótese e Teste A/B;02. Iniciante
+82;Data Analyst;Pl. Data Analyst;Teste de hipótese e Teste A/B;03. Profissional
+83;Data Analyst;Sr. Data Analyst;Teste de hipótese e Teste A/B;04. Expert
+84;Data Analyst;Staff Data Analyst;Teste de hipótese e Teste A/B;05. Professor
+85;Data Analyst;Principal Data Analyst;Teste de hipótese e Teste A/B;05. Professor
+86;Data Engineer;Jr. Data Engineer;Apache Spark;01. Aprendiz
+87;Data Engineer;Pl. Data Engineer;Apache Spark;03. Profissional
+88;Data Engineer;Sr. Data Engineer;Apache Spark;04. Expert
+89;Data Engineer;Staff Data Engineer;Apache Spark;05. Professor
+90;Data Engineer;Principal Data Engineer;Apache Spark;05. Professor
+91;Data Engineer;Jr. Data Engineer;Cloud;01. Aprendiz
+92;Data Engineer;Pl. Data Engineer;Cloud;03. Profissional
+93;Data Engineer;Sr. Data Engineer;Cloud;04. Expert
+94;Data Engineer;Staff Data Engineer;Cloud;04. Expert
+95;Data Engineer;Principal Data Engineer;Cloud;05. Professor
+96;Data Engineer;Jr. Data Engineer;Comunicação;01. Aprendiz
+97;Data Engineer;Pl. Data Engineer;Comunicação;02. Iniciante
+98;Data Engineer;Sr. Data Engineer;Comunicação;03. Profissional
+99;Data Engineer;Staff Data Engineer;Comunicação;04. Expert
+100;Data Engineer;Principal Data Engineer;Comunicação;05. Professor
+101;Data Engineer;Jr. Data Engineer;Docker;01. Aprendiz
+102;Data Engineer;Pl. Data Engineer;Docker;03. Profissional
+103;Data Engineer;Sr. Data Engineer;Docker;04. Expert
+104;Data Engineer;Staff Data Engineer;Docker;04. Expert
+105;Data Engineer;Principal Data Engineer;Docker;05. Professor
+106;Data Engineer;Jr. Data Engineer;ETL;01. Aprendiz
+107;Data Engineer;Pl. Data Engineer;ETL;03. Profissional
+108;Data Engineer;Sr. Data Engineer;ETL;04. Expert
+109;Data Engineer;Staff Data Engineer;ETL;05. Professor
+110;Data Engineer;Principal Data Engineer;ETL;05. Professor
+111;Data Engineer;Jr. Data Engineer;Gestão / Liderança;00. Não esperada
+112;Data Engineer;Pl. Data Engineer;Gestão / Liderança;00. Não esperada
+113;Data Engineer;Sr. Data Engineer;Gestão / Liderança;01. Aprendiz
+114;Data Engineer;Staff Data Engineer;Gestão / Liderança;01. Aprendiz
+115;Data Engineer;Principal Data Engineer;Gestão / Liderança;02. Iniciante
+116;Data Engineer;Jr. Data Engineer;Git / GitHub / GitLab / BitBucket;02. Iniciante
+117;Data Engineer;Pl. Data Engineer;Git / GitHub / GitLab / BitBucket;03. Profissional
+118;Data Engineer;Sr. Data Engineer;Git / GitHub / GitLab / BitBucket;04. Expert
+119;Data Engineer;Staff Data Engineer;Git / GitHub / GitLab / BitBucket;04. Expert
+120;Data Engineer;Principal Data Engineer;Git / GitHub / GitLab / BitBucket;05. Professor
+121;Data Engineer;Jr. Data Engineer;IaC;01. Aprendiz
+122;Data Engineer;Pl. Data Engineer;IaC;02. Iniciante
+123;Data Engineer;Sr. Data Engineer;IaC;03. Profissional
+124;Data Engineer;Staff Data Engineer;IaC;04. Expert
+125;Data Engineer;Principal Data Engineer;IaC;05. Professor
+126;Data Engineer;Jr. Data Engineer;Kubernetes;01. Aprendiz
+127;Data Engineer;Pl. Data Engineer;Kubernetes;02. Iniciante
+128;Data Engineer;Sr. Data Engineer;Kubernetes;03. Profissional
+129;Data Engineer;Staff Data Engineer;Kubernetes;04. Expert
+130;Data Engineer;Principal Data Engineer;Kubernetes;05. Professor
+131;Data Engineer;Jr. Data Engineer;Machine Learning - Classificação;00. Não esperada
+132;Data Engineer;Pl. Data Engineer;Machine Learning - Classificação;00. Não esperada
+133;Data Engineer;Sr. Data Engineer;Machine Learning - Classificação;01. Aprendiz
+134;Data Engineer;Staff Data Engineer;Machine Learning - Classificação;02. Iniciante
+135;Data Engineer;Principal Data Engineer;Machine Learning - Classificação;02. Iniciante
+136;Data Engineer;Jr. Data Engineer;Machine Learning - Regressão;00. Não esperada
+137;Data Engineer;Pl. Data Engineer;Machine Learning - Regressão;00. Não esperada
+138;Data Engineer;Sr. Data Engineer;Machine Learning - Regressão;01. Aprendiz
+139;Data Engineer;Staff Data Engineer;Machine Learning - Regressão;02. Iniciante
+140;Data Engineer;Principal Data Engineer;Machine Learning - Regressão;02. Iniciante
+141;Data Engineer;Jr. Data Engineer;Mensageria;00. Não esperada
+142;Data Engineer;Pl. Data Engineer;Mensageria;01. Aprendiz
+143;Data Engineer;Sr. Data Engineer;Mensageria;03. Profissional
+144;Data Engineer;Staff Data Engineer;Mensageria;04. Expert
+145;Data Engineer;Principal Data Engineer;Mensageria;05. Professor
+146;Data Engineer;Jr. Data Engineer;Modelagem de dados;01. Aprendiz
+147;Data Engineer;Pl. Data Engineer;Modelagem de dados;02. Iniciante
+148;Data Engineer;Sr. Data Engineer;Modelagem de dados;03. Profissional
+149;Data Engineer;Staff Data Engineer;Modelagem de dados;04. Expert
+150;Data Engineer;Principal Data Engineer;Modelagem de dados;05. Professor
+151;Data Engineer;Jr. Data Engineer;Negociação;00. Não esperada
+152;Data Engineer;Pl. Data Engineer;Negociação;02. Iniciante
+153;Data Engineer;Sr. Data Engineer;Negociação;03. Profissional
+154;Data Engineer;Staff Data Engineer;Negociação;03. Profissional
+155;Data Engineer;Principal Data Engineer;Negociação;04. Expert
+156;Data Engineer;Jr. Data Engineer;Orquestrador de Pipelines;02. Iniciante
+157;Data Engineer;Pl. Data Engineer;Orquestrador de Pipelines;03. Profissional
+158;Data Engineer;Sr. Data Engineer;Orquestrador de Pipelines;04. Expert
+159;Data Engineer;Staff Data Engineer;Orquestrador de Pipelines;04. Expert
+160;Data Engineer;Principal Data Engineer;Orquestrador de Pipelines;05. Professor
+161;Data Engineer;Jr. Data Engineer;Python / R / Julia;02. Iniciante
+162;Data Engineer;Pl. Data Engineer;Python / R / Julia;03. Profissional
+163;Data Engineer;Sr. Data Engineer;Python / R / Julia;04. Expert
+164;Data Engineer;Staff Data Engineer;Python / R / Julia;05. Professor
+165;Data Engineer;Principal Data Engineer;Python / R / Julia;05. Professor
+166;Data Engineer;Jr. Data Engineer;Simplificação;02. Iniciante
+167;Data Engineer;Pl. Data Engineer;Simplificação;03. Profissional
+168;Data Engineer;Sr. Data Engineer;Simplificação;04. Expert
+169;Data Engineer;Staff Data Engineer;Simplificação;04. Expert
+170;Data Engineer;Principal Data Engineer;Simplificação;05. Professor
+171;Data Engineer;Jr. Data Engineer;SQL;02. Iniciante
+172;Data Engineer;Pl. Data Engineer;SQL;03. Profissional
+173;Data Engineer;Sr. Data Engineer;SQL;04. Expert
+174;Data Engineer;Staff Data Engineer;SQL;05. Professor
+175;Data Engineer;Principal Data Engineer;SQL;05. Professor
+176;Data Scientist;Jr. Data Scientist;Apresentação / Storytelling;02. Iniciante
+177;Data Scientist;Pl. Data Scientist;Apresentação / Storytelling;03. Profissional
+178;Data Scientist;Sr. Data Scientist;Apresentação / Storytelling;04. Expert
+179;Data Scientist;Staff Data Scientist;Apresentação / Storytelling;04. Expert
+180;Data Scientist;Principal Data Scientist;Apresentação / Storytelling;04. Expert
+181;Data Scientist;Jr. Data Scientist;Cloud;00. Não esperada
+182;Data Scientist;Pl. Data Scientist;Cloud;01. Aprendiz
+183;Data Scientist;Sr. Data Scientist;Cloud;02. Iniciante
+184;Data Scientist;Staff Data Scientist;Cloud;03. Profissional
+185;Data Scientist;Principal Data Scientist;Cloud;03. Profissional
+186;Data Scientist;Jr. Data Scientist;Comunicação;01. Aprendiz
+187;Data Scientist;Pl. Data Scientist;Comunicação;02. Iniciante
+188;Data Scientist;Sr. Data Scientist;Comunicação;03. Profissional
+189;Data Scientist;Staff Data Scientist;Comunicação;04. Expert
+190;Data Scientist;Principal Data Scientist;Comunicação;05. Professor
+191;Data Scientist;Jr. Data Scientist;Data Visualization;00. Não esperada
+192;Data Scientist;Pl. Data Scientist;Data Visualization;01. Aprendiz
+193;Data Scientist;Sr. Data Scientist;Data Visualization;02. Iniciante
+194;Data Scientist;Staff Data Scientist;Data Visualization;03. Profissional
+195;Data Scientist;Principal Data Scientist;Data Visualization;04. Expert
+196;Data Scientist;Jr. Data Scientist;Docker;00. Não esperada
+197;Data Scientist;Pl. Data Scientist;Docker;01. Aprendiz
+198;Data Scientist;Sr. Data Scientist;Docker;02. Iniciante
+199;Data Scientist;Staff Data Scientist;Docker;03. Profissional
+200;Data Scientist;Principal Data Scientist;Docker;03. Profissional
+201;Data Scientist;Jr. Data Scientist;Estatística descritiva;02. Iniciante
+202;Data Scientist;Pl. Data Scientist;Estatística descritiva;03. Profissional
+203;Data Scientist;Sr. Data Scientist;Estatística descritiva;04. Expert
+204;Data Scientist;Staff Data Scientist;Estatística descritiva;05. Professor
+205;Data Scientist;Principal Data Scientist;Estatística descritiva;05. Professor
+206;Data Scientist;Jr. Data Scientist;ETL;02. Iniciante
+207;Data Scientist;Pl. Data Scientist;ETL;03. Profissional
+208;Data Scientist;Sr. Data Scientist;ETL;04. Expert
+209;Data Scientist;Staff Data Scientist;ETL;05. Professor
+210;Data Scientist;Principal Data Scientist;ETL;05. Professor
+211;Data Scientist;Jr. Data Scientist;Gestão / Liderança;00. Não esperada
+212;Data Scientist;Pl. Data Scientist;Gestão / Liderança;00. Não esperada
+213;Data Scientist;Sr. Data Scientist;Gestão / Liderança;01. Aprendiz
+214;Data Scientist;Staff Data Scientist;Gestão / Liderança;01. Aprendiz
+215;Data Scientist;Principal Data Scientist;Gestão / Liderança;01. Aprendiz
+216;Data Scientist;Jr. Data Scientist;Git / GitHub / GitLab / BitBucket;01. Aprendiz
+217;Data Scientist;Pl. Data Scientist;Git / GitHub / GitLab / BitBucket;02. Iniciante
+218;Data Scientist;Sr. Data Scientist;Git / GitHub / GitLab / BitBucket;03. Profissional
+219;Data Scientist;Staff Data Scientist;Git / GitHub / GitLab / BitBucket;04. Expert
+220;Data Scientist;Principal Data Scientist;Git / GitHub / GitLab / BitBucket;05. Professor
+221;Data Scientist;Jr. Data Scientist;Inteligência Emocional;01. Aprendiz
+222;Data Scientist;Pl. Data Scientist;Inteligência Emocional;03. Profissional
+223;Data Scientist;Sr. Data Scientist;Inteligência Emocional;04. Expert
+224;Data Scientist;Staff Data Scientist;Inteligência Emocional;05. Professor
+225;Data Scientist;Principal Data Scientist;Inteligência Emocional;05. Professor
+226;Data Scientist;Jr. Data Scientist;Machine Learning - Agrupamento;02. Iniciante
+227;Data Scientist;Pl. Data Scientist;Machine Learning - Agrupamento;03. Profissional
+228;Data Scientist;Sr. Data Scientist;Machine Learning - Agrupamento;04. Expert
+229;Data Scientist;Staff Data Scientist;Machine Learning - Agrupamento;04. Expert
+230;Data Scientist;Principal Data Scientist;Machine Learning - Agrupamento;05. Professor
+231;Data Scientist;Jr. Data Scientist;Machine Learning - Associação;02. Iniciante
+232;Data Scientist;Pl. Data Scientist;Machine Learning - Associação;03. Profissional
+233;Data Scientist;Sr. Data Scientist;Machine Learning - Associação;04. Expert
+234;Data Scientist;Staff Data Scientist;Machine Learning - Associação;04. Expert
+235;Data Scientist;Principal Data Scientist;Machine Learning - Associação;05. Professor
+236;Data Scientist;Jr. Data Scientist;Machine Learning - Classificação;02. Iniciante
+237;Data Scientist;Pl. Data Scientist;Machine Learning - Classificação;03. Profissional
+238;Data Scientist;Sr. Data Scientist;Machine Learning - Classificação;04. Expert
+239;Data Scientist;Staff Data Scientist;Machine Learning - Classificação;05. Professor
+240;Data Scientist;Principal Data Scientist;Machine Learning - Classificação;05. Professor
+241;Data Scientist;Jr. Data Scientist;Machine Learning - Regressão;02. Iniciante
+242;Data Scientist;Pl. Data Scientist;Machine Learning - Regressão;03. Profissional
+243;Data Scientist;Sr. Data Scientist;Machine Learning - Regressão;04. Expert
+244;Data Scientist;Staff Data Scientist;Machine Learning - Regressão;05. Professor
+245;Data Scientist;Principal Data Scientist;Machine Learning - Regressão;05. Professor
+246;Data Scientist;Jr. Data Scientist;Negociação;01. Aprendiz
+247;Data Scientist;Pl. Data Scientist;Negociação;02. Iniciante
+248;Data Scientist;Sr. Data Scientist;Negociação;03. Profissional
+249;Data Scientist;Staff Data Scientist;Negociação;04. Expert
+250;Data Scientist;Principal Data Scientist;Negociação;04. Expert
+251;Data Scientist;Jr. Data Scientist;Orquestrador de Pipelines;00. Não esperada
+252;Data Scientist;Pl. Data Scientist;Orquestrador de Pipelines;01. Aprendiz
+253;Data Scientist;Sr. Data Scientist;Orquestrador de Pipelines;02. Iniciante
+254;Data Scientist;Staff Data Scientist;Orquestrador de Pipelines;03. Profissional
+255;Data Scientist;Principal Data Scientist;Orquestrador de Pipelines;04. Expert
+256;Data Scientist;Jr. Data Scientist;Python / R / Julia;02. Iniciante
+257;Data Scientist;Pl. Data Scientist;Python / R / Julia;03. Profissional
+258;Data Scientist;Sr. Data Scientist;Python / R / Julia;04. Expert
+259;Data Scientist;Staff Data Scientist;Python / R / Julia;04. Expert
+260;Data Scientist;Principal Data Scientist;Python / R / Julia;05. Professor
+261;Data Scientist;Jr. Data Scientist;Simplificação;02. Iniciante
+262;Data Scientist;Pl. Data Scientist;Simplificação;03. Profissional
+263;Data Scientist;Sr. Data Scientist;Simplificação;04. Expert
+264;Data Scientist;Staff Data Scientist;Simplificação;04. Expert
+265;Data Scientist;Principal Data Scientist;Simplificação;05. Professor
+266;Data Scientist;Jr. Data Scientist;SQL;02. Iniciante
+267;Data Scientist;Pl. Data Scientist;SQL;03. Profissional
+268;Data Scientist;Sr. Data Scientist;SQL;04. Expert
+269;Data Scientist;Staff Data Scientist;SQL;05. Professor
+270;Data Scientist;Principal Data Scientist;SQL;05. Professor
+271;Data Scientist;Jr. Data Scientist;Teste de hipótese e Teste A/B;02. Iniciante
+272;Data Scientist;Pl. Data Scientist;Teste de hipótese e Teste A/B;03. Profissional
+273;Data Scientist;Sr. Data Scientist;Teste de hipótese e Teste A/B;04. Expert
+274;Data Scientist;Staff Data Scientist;Teste de hipótese e Teste A/B;05. Professor
+275;Data Scientist;Principal Data Scientist;Teste de hipótese e Teste A/B;05. Professor
